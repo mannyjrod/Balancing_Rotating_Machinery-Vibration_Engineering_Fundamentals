@@ -8,6 +8,6 @@ Ref: Rao, S. S. (2004). Mechanical Vibrations (4th ed.). Upper Saddle River: Pea
 
 Manny J Rodriguez
 
-https://mannjrodriguez.com
+https://mannyjrodriguez.com
 
 [![View Balancing_Rotating_Machinery-Vibration_Engineering_Fundament on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/182075-balancing_rotating_machinery-vibration_engineering_fundament)
